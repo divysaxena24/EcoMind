@@ -43,15 +43,6 @@ pip install pyttsx3 SpeechRecognition pyaudio requests wikipedia pywhatkit pyjok
 
 ---
 
-## 📸 Demo Preview
-
-> _Add your own screenshot or screen-recorded GIF below (e.g., running in terminal or voice command in action)_
-
-![Demo Screenshot](docs/ecoscreen.png)  
-![Voice Assistant Terminal](docs/ecoterminal.gif)
-
----
-
 ## 🚀 Usage
 
 1. Run the Python file:
